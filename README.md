@@ -14,3 +14,8 @@
  2) If you want to insec ally just left click to ally and use insec key.
  3) If you want to insec into specific position, hold insec spot key and click the position you desire. If you see the drawings related selected position- now you can use insec key.
  
+# Some Gifs ingame ( Leesin )
+~Gank Combo~
+https://gyazo.com/21ab906057553a701b94b57fa300c84b
+~Insec~
+https://gyazo.com/9fc573c22f9b423e4b2a3eec9f3eb153
