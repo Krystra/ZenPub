@@ -1,6 +1,3 @@
-# ZenPub
+# LeeSin
 
-
-# Deneme
-
-Deneme
+# Feature list
