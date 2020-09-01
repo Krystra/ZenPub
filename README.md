@@ -16,6 +16,6 @@
  
 # Some Gifs ingame ( Leesin )
 Gank Combo
-https://gyazo.com/21ab906057553a701b94b57fa300c84b
+https://i.gyazo.com/9fc573c22f9b423e4b2a3eec9f3eb153.mp4
 Insec
-https://gyazo.com/9fc573c22f9b423e4b2a3eec9f3eb153
+https://i.gyazo.com/21ab906057553a701b94b57fa300c84b.mp4
