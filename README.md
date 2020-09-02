@@ -1,3 +1,13 @@
+# General Informations
+This bundle is a port of my scripts from other platforms. There will be some bugs / problems so please try in a bot game before go ranked. 
+
+I will not write every feature of each champion, every champ in this bundle has written to get maximum performance / features for each champion.
+
+There are some fps drops currently in clear mods. I will optimize the code once all the champions added the bundle.
+
+
+Have fun and feel free to give feedbacks.
+
 # Supported Champion List
 Mid Champions : Cassiopeia, Annie, Xerath , Lissandra, Diana , Orianna, Leblanc, 
 Jungle Champions : Leesin
