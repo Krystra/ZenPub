@@ -1,3 +1,10 @@
+# Supported Champion List
+Mid Champions : Cassiopeia, Annie, Xerath , Lissandra, Diana , Orianna, Leblanc, 
+Jungle Champions : Leesin
+ADC : Ezreal, Twitch, xayah , Tristana, Kalista, Caitlyn, Kogmaw, Ashe
+
+Total: 16
+
 # Leesin ( Feature List )
  1) Insec with configuration - multiple last end point setting ( mouse pos , ally pos , turret etc)
  2) 3 Different combo modes ; Gank , Normal , Star combo
