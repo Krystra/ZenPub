@@ -1,3 +1,3 @@
 # Update 2.09.2020
-Updated to patch 10.18
-Added Auto Update.
+1) Updated to patch 10.18
+2) Added Auto Update.
