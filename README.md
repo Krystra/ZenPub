@@ -9,9 +9,9 @@ There are some fps drops currently in clear mods. I will optimize the code once 
 Have fun and feel free to give feedbacks.
 
 # Supported Champion List
-Mid Champions : Cassiopeia, Annie, Xerath , Lissandra, Diana , Orianna, Leblanc, 
-Jungle Champions : Leesin
-ADC : Ezreal, Twitch, xayah , Tristana, Kalista, Caitlyn, Kogmaw, Ashe  
+1) Mid Champions : Cassiopeia, Annie, Xerath , Lissandra, Diana , Orianna, Leblanc, 
+2) Jungle Champions : Leesin
+3) ADC : Ezreal, Twitch, xayah , Tristana, Kalista, Caitlyn, Kogmaw, Ashe  
 
 Total: 16
 
