@@ -11,7 +11,7 @@ Have fun and feel free to give feedbacks.
 # Supported Champion List
 Mid Champions : Cassiopeia, Annie, Xerath , Lissandra, Diana , Orianna, Leblanc, 
 Jungle Champions : Leesin
-ADC : Ezreal, Twitch, xayah , Tristana, Kalista, Caitlyn, Kogmaw, Ashe 
+ADC : Ezreal, Twitch, xayah , Tristana, Kalista, Caitlyn, Kogmaw, Ashe  
 
 Total: 16
 
