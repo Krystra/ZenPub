@@ -15,4 +15,5 @@
 7) Killsteal Options
 8) Smart Antigap usage with menu options
 9) BaseUlt
-10) Power Prediction > its currently on testing so default prediction is still internal. ( you can chose predictions in menu )
+10) Smart tear stack.
+11) Power Prediction > its currently on testing so default prediction is still internal. ( you can chose predictions in menu )
