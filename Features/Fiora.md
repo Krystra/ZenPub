@@ -8,6 +8,7 @@
 6) Escape options
 7) Killsteal Options
 8) Smart Antigap usage with menu options
+9) Parry targeted spells
 9) AA resets with items and skills.
 
 https://i.gyazo.com/d4b6256c3545496cb1e30522a4d15dcc.mp4
