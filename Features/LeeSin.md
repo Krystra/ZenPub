@@ -7,7 +7,8 @@
  6) Other misc options.
  7) Harass
  8) Smite Options
- 
+ 9) Antigap ( Wardjump / R )
+ 10) Turret dive logics
  
  # How to Insec ( Leesin )
  1) Script has an automatic end point selection 
